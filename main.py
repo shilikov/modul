@@ -1,6 +1,6 @@
 from datetime import datetime
 from application.salary import Salary
-from db.people import Employees
+from application.db.people import Employees
 
 
 if __name__ == '__main__':
